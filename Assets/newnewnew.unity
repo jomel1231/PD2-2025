@@ -2435,6 +2435,8 @@ MonoBehaviour:
   rotationSpeed: 100
   unscrewDistance: 0.05
   screwBackDistance: 0.05
+  audioSource: {fileID: 0}
+  screwRemovedClip: {fileID: 0}
 --- !u!54 &178351145
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5267,6 +5269,8 @@ MonoBehaviour:
   rotationSpeed: 100
   unscrewDistance: 0.05
   screwBackDistance: 0.05
+  audioSource: {fileID: 0}
+  screwRemovedClip: {fileID: 0}
 --- !u!54 &482107201
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14177,6 +14181,8 @@ MonoBehaviour:
   rotationSpeed: 100
   unscrewDistance: 0.05
   screwBackDistance: 0.05
+  audioSource: {fileID: 0}
+  screwRemovedClip: {fileID: 0}
 --- !u!54 &1610163845
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14565,6 +14571,8 @@ MonoBehaviour:
   rotationSpeed: 100
   unscrewDistance: 0.05
   screwBackDistance: 0.05
+  audioSource: {fileID: 0}
+  screwRemovedClip: {fileID: 0}
 --- !u!54 &1665190147
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15280,6 +15288,8 @@ MonoBehaviour:
   rotationSpeed: 100
   unscrewDistance: 0.05
   screwBackDistance: 0.05
+  audioSource: {fileID: 0}
+  screwRemovedClip: {fileID: 0}
 --- !u!54 &1854954392
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17201,6 +17211,8 @@ MonoBehaviour:
   rotationSpeed: 100
   unscrewDistance: 0.05
   screwBackDistance: 0.05
+  audioSource: {fileID: 0}
+  screwRemovedClip: {fileID: 0}
 --- !u!54 &2126732654
 Rigidbody:
   m_ObjectHideFlags: 0
