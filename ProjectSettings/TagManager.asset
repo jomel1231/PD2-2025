@@ -20,6 +20,7 @@ TagManager:
   - scrw
   - PhoneScreen
   - Table
+  - Chassis
   layers:
   - Default
   - TransparentFX
